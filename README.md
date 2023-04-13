@@ -1,6 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=5555&pause=1500&color=149414&multiline=true&width=470&lines=Hi++there%F0%9F%91%8B%2C++I'm+Sivaganesh+Pavithiran)](https://git.io/typing-svg)
 
-<!--
 **blackpavi6/blackpavi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
